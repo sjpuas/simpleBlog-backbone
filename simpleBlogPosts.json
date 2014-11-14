@@ -1,0 +1,14 @@
+[
+    {
+        "content": "hello world",
+        "title": "primer post",
+        "pubDate": "2014-11-14T17:45:21.696Z",
+        "id": 1
+    },
+    {
+        "content": "chao world",
+        "title": "segundo post",
+        "pubDate": "2014-11-14T17:45:47.820Z",
+        "id": 2
+    }
+]
